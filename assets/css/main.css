@@ -165,7 +165,7 @@ footer.sticky-bottom { border-top: 1px solid #e8e8e8; padding-top: 40px; padding
 
 a.no-decoration:hover { text-decoration: none; }
 
-.team .card-body a:first-of-type { text-decoration: none; }
+.team .card-body a:first-of-type { display:inline text-decoration: none; }
 
 .publications { margin-top: 2rem; }
 
